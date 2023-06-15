@@ -44,7 +44,6 @@ public class Main {
         System.out.println();
 
         double sum = 0;
-        //int count = 0;
         double mid = 0;
         for (int j : list1) {
             sum += j;
